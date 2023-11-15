@@ -1,6 +1,7 @@
+
 ![CI](https://github.com/AlexAdutov/ajs_diploma/actions/workflows/web.yml/badge.svg)
 
-[ajs_diploma]
+[ajs-diploma](https://AlexAdutov.github.io/ajs_diploma/)
 
 # Дипломное задание к курсу «Продвинутый JavaScript». Retro Game
 

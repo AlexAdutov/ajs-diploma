@@ -1,4 +1,4 @@
-name: AJS Diploma
+name: ajs-diploma
 
 on: [push, pull_request]
 
