@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/VyacheslavBakashov/ajs_diploma.git"
+    "url": "git+https://github.com/AlexAdutov/ajs-diploma.git"
   },
   "author": "BVV",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/VyacheslavBakashov/ajs_diploma/issues"
+    "url": "https://github.com/AlexAdutov/ajs-diploma/issues"
   },
-  "homepage": "https://github.com/VyacheslavBakashov/ajs_diploma#readme",
+  "homepage": "https://github.com/AlexAdutov/ajs-diploma#readme",
   "devDependencies": {
     "@babel/cli": "^7.22.9",
     "@babel/core": "^7.22.9",
